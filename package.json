@@ -9,7 +9,7 @@
     "lint:fix": "eslint --fix src"
   },
   "dependencies": {
-    "apollo-server-express": "^2.0.0",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.16.3",
     "firebase-admin": "^5.13.1",
     "graphql": "^0.13.2",
