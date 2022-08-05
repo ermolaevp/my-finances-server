@@ -14,7 +14,7 @@
     "firebase-admin": "^5.13.1",
     "graphql": "^0.13.2",
     "graphql-tag": "^2.9.2",
-    "mongoose": "^5.2.7",
+    "mongoose": "^5.7.5",
     "raven": "^2.6.3"
   },
   "devDependencies": {
